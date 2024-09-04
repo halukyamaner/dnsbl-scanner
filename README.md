@@ -17,4 +17,4 @@ DNSBL Scanner is a Python-based utility for checking if an IP address or domain 
 To use DNSBL Scanner, execute the script from the command line with an IP address or domain. The script queries each DNSBL provider in the list and reports back the listing status.
 
 ```bash
-python DNSBLScanner.py
+python dnsbl_scanner.py
